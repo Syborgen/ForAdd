@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TicTacToe.exe" size="24536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TicTacToe.exe" size="23552">
       <assemblyIdentity name="TicTacToe" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ad2n/OxsrTrS7p6pTIpScyC61mF9DbyBXF10WKK4ZGE=</dsig:DigestValue>
+        <dsig:DigestValue>OMbVJjJs5CKb1D7DANW+JrU5T6fu5n1G1iD+SnoWCmY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

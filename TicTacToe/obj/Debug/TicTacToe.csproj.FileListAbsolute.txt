@@ -11,3 +11,16 @@ C:\Users\Home\source\repos\TicTacToe\bin\Debug\TicTacToe.exe.manifest
 C:\Users\Home\source\repos\TicTacToe\bin\Debug\TicTacToe.application
 C:\Users\Home\source\repos\TicTacToe\obj\Debug\TicTacToe.exe.manifest
 C:\Users\Home\source\repos\TicTacToe\obj\Debug\TicTacToe.application
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.SettingsForm.resources
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\Арсений\Documents\GitHub\ForAdd\TicTacToe\obj\Debug\TicTacToe.application
